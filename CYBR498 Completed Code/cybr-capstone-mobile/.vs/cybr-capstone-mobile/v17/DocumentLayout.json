@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.json",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\app.json",
+              "RelativeDocumentMoniker": "app.json",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\app.json",
+              "RelativeToolTip": "app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T20:09:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-15T20:54:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\App.js",
+              "RelativeDocumentMoniker": "App.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\cybr-capstone-mobile\\App.js",
+              "RelativeToolTip": "App.js",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-15T20:51:41.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

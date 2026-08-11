@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\mainServer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\mainServer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\piiDetection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\piiDetection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\riskScorer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\riskScorer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\ocrTest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\ocrTest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "piiDetection.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\piiDetection.js",
+              "RelativeDocumentMoniker": "backend\\piiDetection.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\piiDetection.js",
+              "RelativeToolTip": "backend\\piiDetection.js",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T16:38:47.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "riskScorer.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\riskScorer.js",
+              "RelativeDocumentMoniker": "backend\\riskScorer.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\riskScorer.js",
+              "RelativeToolTip": "backend\\riskScorer.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-17T16:49:20.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainServer.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\mainServer.js",
+              "RelativeDocumentMoniker": "backend\\mainServer.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\mainServer.js",
+              "RelativeToolTip": "backend\\mainServer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-10T01:12:34.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocrTest.js",
+              "DocumentMoniker": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\ocrTest.js",
+              "RelativeDocumentMoniker": "backend\\ocrTest.js",
+              "ToolTip": "C:\\Users\\Kaitlyn A\\kasato\\CYBR498 Completed Code\\CybrCapstone\\backend\\ocrTest.js",
+              "RelativeToolTip": "backend\\ocrTest.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-10T00:58:46.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
