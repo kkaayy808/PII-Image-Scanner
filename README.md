@@ -35,6 +35,8 @@ A mobile application that detects personally identifiable information (PII) with
 6. Results from both processing paths are merged.
 7. A risk score from 0–10 is calculated and returned to the app.
 
+Note: Reference AppDemo.mov to see an example of the application running on a mobile device!
+
 ## Risk Scoring
 
 | PII Type | Risk |
